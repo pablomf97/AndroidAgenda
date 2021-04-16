@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_edit_appointment"
+        android:title="@string/edit_appointment"
+        android:icon="@drawable/ic_edit_black" />
+
+    <item
+        android:id="@+id/menu_delete_appointment"
+        android:title="@string/delete_appointment"
+        android:icon="@drawable/ic_delete_black" />
+
+</menu>

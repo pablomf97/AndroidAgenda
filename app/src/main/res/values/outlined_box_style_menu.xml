@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style
+        name="OutlinedBoxCustomMenuInputLayoutStyle"
+        parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu">
+        <item name="boxStrokeColor">@color/white</item>
+        <item name="boxStrokeWidth">2dp</item>
+        <item name="hintTextColor">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="counterTextColor">@color/white</item>
+        <item name="boxStrokeErrorColor">@color/errorColor</item>
+        <item name="errorIconTint">@color/errorColor</item>
+        <item name="errorTextColor">@color/errorColor</item>
+        <item name="endIconTint">@color/white</item>
+    </style>
+</resources>
